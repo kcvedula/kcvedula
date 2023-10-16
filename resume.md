@@ -1,3 +1,5 @@
 
 Name: Kesava Chandra (KC) Vedula
-School: Northeastern University
+Education: 
+Graduated from Hollis Brookline High School
+Currently at Northeastern University
